@@ -1,0 +1,20 @@
+body{
+  text-align: center;
+  background-color: rgb(81, 16, 167);
+  font-family: 'Courier New', Courier, monospace;
+}
+.intro{
+  margin-top: 100px;
+  color: #FFFFFF;
+  font-size: 20px;
+}
+
+.name{
+  margin-top: 20px;
+  color: rgb(255, 197, 8);
+  font-size: 50px;
+}
+
+strong{
+  color: orange;
+}
